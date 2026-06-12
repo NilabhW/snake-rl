@@ -1,4 +1,4 @@
-cat > README.md << EOF
+
 # Snake RL
 
 A Deep Q-Network (DQN) agent that learns to play Snake from scratch using reinforcement learning.
@@ -21,7 +21,3 @@ python3 train.py
 - Pygame
 - DQN with experience replay
 EOF
-
-git add README.md
-git commit -m "Add README"
-git push
